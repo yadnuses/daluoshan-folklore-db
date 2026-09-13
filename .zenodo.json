@@ -1,0 +1,22 @@
+{
+  "title": "大罗山宗教民俗专题文献库（daluoshan-folklore-db）",
+  "description": "温州大罗山宗教民俗与民间故事研究的配套专题文献库，为该方向第一个专题文献库。含《康熙·仙岩寺志》《仙岩山志》OCR校读文本、102条民间故事分级元数据表、全量资料的链接指路层、方志与对勘文本。现代版权内容一律以链接指路形式收录。",
+  "upload_type": "dataset",
+  "language": "zho",
+  "access_right": "open",
+  "license": { "id": "CC-BY-4.0" },
+  "creators": [
+    { "name": "大罗山宗教民俗研究课题组" }
+  ],
+  "keywords": [
+    "大罗山", "温州", "宗教民俗", "民间故事", "仙岩寺志", "洞天福地",
+    "景观锚定", "文本层累", "语料库", "数字人文"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yadnuses/daluoshan-folklore-db",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}
