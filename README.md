@@ -1,5 +1,7 @@
 # 大罗山宗教民俗专题文献库（daluoshan-folklore-db）
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22735885.svg)](https://doi.org/10.5281/zenodo.22735885)
+
 温州大罗山宗教民俗与民间故事研究的配套专题文献库。经研究员网络调研确认：大罗山宗教民俗与民间故事方向无专题数据库、无专题学术论文（同主题 12 篇论文全部属于生态、旅游、水利、设计学科）。本库为该方向的第一个专题文献库，持续建设。
 
 ## 内容结构
@@ -21,9 +23,11 @@
 
 ## 引用格式
 
-> 大罗山宗教民俗研究课题组. 大罗山宗教民俗专题文献库（daluoshan-folklore-db）[DB/OL]. GitHub, 2026. https://github.com/yadnuses/daluoshan-folklore-db
+> 大罗山宗教民俗研究课题组. 大罗山宗教民俗专题文献库（daluoshan-folklore-db）[DB/OL]. Zenodo, 2026. https://doi.org/10.5281/zenodo.22735885
 
-正式发布后将挂 Zenodo 生成 DOI。
+- **Concept DOI（跨版本通用，引用请用这个）**：https://doi.org/10.5281/zenodo.22735885
+- **v0.1.0 版本 DOI**：https://doi.org/10.5281/zenodo.22735886
+- 每次发新 Release 会自动生成新版本 DOI，并在同一 Concept DOI 下累积。
 
 ## 许可
 
